@@ -1,0 +1,5748 @@
+{
+  "Objects": [
+    {
+      "name": "StaticObj_Rubble_DirtPile_Large",
+      "pos": [
+        12638.365234375,
+        42.12071228027344,
+        14445.232421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 5,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12622.4013671875,
+        30.5631103515625,
+        14373.44140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12615.9765625,
+        32.1201171875,
+        14378.1005859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12647.61328125,
+        26.424575805664062,
+        14379.01953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12631.53515625,
+        34.19934844970703,
+        14356.982421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12624.91015625,
+        36.42253112792969,
+        14351.029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12611.044921875,
+        35.893218994140625,
+        14359.0185546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12665.66796875,
+        20.152402877807617,
+        14398.9501953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12660.0263671875,
+        22.514801025390625,
+        14393.419921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12669.76171875,
+        17.45640754699707,
+        14406.1455078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12670.96484375,
+        15.299745559692383,
+        14412.8251953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12670.5380859375,
+        7.883783340454102,
+        14435.4775390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12674.2451171875,
+        12.267587661743164,
+        14418.97265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12672.798828125,
+        10.553033828735352,
+        14425.9326171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12682.15625,
+        3.827840805053711,
+        14442.73046875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12690.072265625,
+        3.3439388275146484,
+        14442.701171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12680.65625,
+        6.454797744750977,
+        14433.2255859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12678.693359375,
+        13.902521133422852,
+        14411.693359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12681.9375,
+        9.915094375610352,
+        14420.2685546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12689.78515625,
+        7.322774887084961,
+        14422.7548828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12691.169921875,
+        4.551862716674805,
+        14432.3486328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3d.p3d",
+      "pos": [
+        12678.3056640625,
+        16.54550552368164,
+        14402.2333984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12604.1650390625,
+        35.19695281982422,
+        14400.2900390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12605.1884765625,
+        35.104759216308594,
+        14391.1796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12690.60546875,
+        13.868568420410156,
+        14456.265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12681.7412109375,
+        19.316020965576172,
+        14452.9384765625
+      ],
+      "ypr": [
+        -179.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12594.857421875,
+        31.11315155029297,
+        14413.3955078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12703.26953125,
+        13.86856746673584,
+        14462.7333984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12703.26953125,
+        13.868568420410156,
+        14495.771484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12705.853515625,
+        19.4140625,
+        14479.8955078125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12595.4697265625,
+        16.464662551879883,
+        14445.1494140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12706.71484375,
+        5.822599411010742,
+        14479.8955078125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12598.2822265625,
+        17.988374710083008,
+        14437.01953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12691.4267578125,
+        13.868568420410156,
+        14508.818359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12590.818359375,
+        20.065675735473633,
+        14439.2060546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12663.265625,
+        13.86856746673584,
+        14508.818359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12582.8349609375,
+        16.385129928588867,
+        14460.3583984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12650.9541015625,
+        13.868568420410156,
+        14495.9306640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12573.6279296875,
+        16.348981857299805,
+        14461.921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12678.9638671875,
+        18.81903648376465,
+        14509.841796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12580.90625,
+        27.17217254638672,
+        14434.2294921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12678.9638671875,
+        4.932936668395996,
+        14510.9091796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12581.6005859375,
+        31.034622192382812,
+        14424.9150390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12634.953125,
+        19.70172119140625,
+        14488.3037109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12578.115234375,
+        35.712013244628906,
+        14411.6044921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12634.953125,
+        6.060330390930176,
+        14489.30859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12635.9267578125,
+        33.812538146972656,
+        14475.4482421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12656.3056640625,
+        33.90641784667969,
+        14474.9345703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12667.005859375,
+        33.90641784667969,
+        14463.955078125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_Corner1",
+      "pos": [
+        12666.27734375,
+        33.583900451660156,
+        14474.11328125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_1sb.p3d",
+      "pos": [
+        12568.18359375,
+        28.68457794189453,
+        14395.986328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12572.7998046875,
+        20.17083168029785,
+        14453.900390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12565.0625,
+        12.469842910766602,
+        14467.4267578125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12552.6025390625,
+        17.320932388305664,
+        14450.912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12560.771484375,
+        35.900413513183594,
+        14407.861328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12619.8125,
+        37.768394470214844,
+        14397.078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 2,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12637.587890625,
+        37.768394470214844,
+        14397.078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12644.486328125,
+        37.60221862792969,
+        14397.078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12611.70703125,
+        37.44886779785156,
+        14416.7041015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12629.482421875,
+        37.44886779785156,
+        14416.7041015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12647.326171875,
+        37.44886779785156,
+        14416.7041015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12654.4658203125,
+        37.151123046875,
+        14416.7041015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12611.70703125,
+        37.44886779785156,
+        14436.556640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.999998688697815,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12629.482421875,
+        37.44886779785156,
+        14436.556640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12647.326171875,
+        37.44886779785156,
+        14436.556640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12654.4658203125,
+        37.151123046875,
+        14436.556640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12611.70703125,
+        37.49368667602539,
+        14449.6484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12629.482421875,
+        37.49368667602539,
+        14449.6484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12647.326171875,
+        37.49368667602539,
+        14449.6484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12658.275390625,
+        37.19594192504883,
+        14449.6484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12629.482421875,
+        37.569061279296875,
+        14466.9052734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999977350234985,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12647.326171875,
+        37.569061279296875,
+        14466.9052734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999980926513672,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12658.275390625,
+        37.27131652832031,
+        14466.9052734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.9999980926513672,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12621.654296875,
+        37.61956787109375,
+        14466.9052734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 1.999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12673.22265625,
+        26.682415008544922,
+        14456.7470703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12679.326171875,
+        26.81635284423828,
+        14456.7470703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12673.22265625,
+        26.682415008544922,
+        14466.6435546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12679.326171875,
+        26.81635284423828,
+        14466.6435546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12681.7412109375,
+        9.780428886413574,
+        14452.1103515625
+      ],
+      "ypr": [
+        -179.99996948242188,
+        0,
+        0
+      ],
+      "scale": 0.9999997019767761,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12603.984375,
+        7.21238899230957,
+        14465.2626953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12591.6533203125,
+        15.868112564086914,
+        14453.4619140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12673.22265625,
+        26.682415008544922,
+        14476.548828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12679.326171875,
+        26.81635284423828,
+        14476.548828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12673.22265625,
+        26.682415008544922,
+        14486.4345703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12679.326171875,
+        26.81635284423828,
+        14486.4345703125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12673.22265625,
+        26.682415008544922,
+        14496.3701171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988675117493,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12679.326171875,
+        26.81635284423828,
+        14496.3701171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12674.6103515625,
+        26.735427856445312,
+        14505.9677734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12680.7138671875,
+        26.869365692138672,
+        14505.9677734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12633.59765625,
+        39.315284729003906,
+        14398.51171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12653.541015625,
+        38.995758056640625,
+        14430.65625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12663.0205078125,
+        27.142562866210938,
+        14507.62109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12630.728515625,
+        39.72968292236328,
+        14381.474609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12614.771484375,
+        41.36833953857422,
+        14386.783203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12647.7890625,
+        41.39795684814453,
+        14390.552734375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12657.859375,
+        41.38801574707031,
+        14410.8134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12605.6689453125,
+        41.69816589355469,
+        14413.5458984375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12618.255859375,
+        39.70899200439453,
+        14465.7509765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12631.6650390625,
+        38.995758056640625,
+        14414.603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12619.779296875,
+        41.898956298828125,
+        14483.119140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12668.59375,
+        41.83984375,
+        14447.74609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12689.341796875,
+        27.147445678710938,
+        14456.9755859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12651.1650390625,
+        27.14777374267578,
+        14495.2255859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12701.34765625,
+        27.144378662109375,
+        14463.5439453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12700.880859375,
+        27.128082275390625,
+        14494.0869140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12644.1318359375,
+        38.995758056640625,
+        14409.369140625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12689.8359375,
+        27.131439208984375,
+        14506.947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12619.5712890625,
+        38.995758056640625,
+        14410.9453125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12644.35546875,
+        38.995758056640625,
+        14423.1162109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        12666.77734375,
+        19.321298599243164,
+        14490.6318359375
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        12642.177734375,
+        19.321298599243164,
+        14439.6728515625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        12676.3701171875,
+        9.334842681884766,
+        14458.5927734375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999973773956299,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        12676.6171875,
+        9.334848403930664,
+        14495.2822265625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        12623.5771484375,
+        29.28125,
+        14416.982421875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        12642.177734375,
+        29.281238555908203,
+        14416.8828125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999969005584717,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Collapsed",
+      "pos": [
+        12642.177734375,
+        29.281238555908203,
+        14439.6826171875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        12676.767578125,
+        12.296674728393555,
+        14495.056640625
+      ],
+      "ypr": [
+        -1.0856400414066547E-12,
+        0,
+        0
+      ],
+      "scale": 1.4999959468841553,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Gate",
+      "pos": [
+        12632.7041015625,
+        32.14712905883789,
+        14382.23046875
+      ],
+      "ypr": [
+        -1.3841806173475746E-11,
+        0,
+        0
+      ],
+      "scale": 0.9999974966049194,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Entrance",
+      "pos": [
+        12632.8388671875,
+        29.228981018066406,
+        14393.6484375
+      ],
+      "ypr": [
+        -1.1399134240697162E-11,
+        0,
+        0
+      ],
+      "scale": 0.9999960660934448,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        12632.8056640625,
+        29.185977935791016,
+        14407.693359375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999960660934448,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_metalcrate",
+      "pos": [
+        12677.8681640625,
+        9.348167419433594,
+        14482.0283203125
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        12632.9404296875,
+        29.188983917236328,
+        14426.1689453125
+      ],
+      "ypr": [
+        -1.1399134240697162E-11,
+        0,
+        0
+      ],
+      "scale": 0.9999960660934448,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        12632.9404296875,
+        29.188983917236328,
+        14448.9482421875
+      ],
+      "ypr": [
+        -1.0177808248967857E-11,
+        0,
+        0
+      ],
+      "scale": 0.9999960064888,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Block_Terminator",
+      "pos": [
+        12620.1396484375,
+        28.87898063659668,
+        14439.798828125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999958276748657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Start",
+      "pos": [
+        12620.142578125,
+        19.392820358276367,
+        14439.8193359375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999960660934448,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Block",
+      "pos": [
+        12620.154296875,
+        23.91372299194336,
+        14439.8349609375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999958276748657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        12632.8046875,
+        19.23367691040039,
+        14430.4384765625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999961853027344,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        12633.052734375,
+        19.233675003051758,
+        14467.0341796875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999962449073792,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Hospital",
+      "pos": [
+        12650.0283203125,
+        19.226804733276367,
+        14448.7060546875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        12633.052734375,
+        29.190767288208008,
+        14467.0341796875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999958276748657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel",
+      "pos": [
+        12630.1826171875,
+        30.73189926147461,
+        14386.443359375
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single_Right",
+      "pos": [
+        12633.0595703125,
+        19.23380470275879,
+        14474.6923828125
+      ],
+      "ypr": [
+        -4.071130151744873E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Tunnel_Single",
+      "pos": [
+        12644.8271484375,
+        19.233814239501953,
+        14481.4521484375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector_Inv",
+      "pos": [
+        12657.4580078125,
+        19.233810424804688,
+        14481.4619140625
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999966621398926,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Prison",
+      "pos": [
+        12676.0224609375,
+        19.23381996154785,
+        14464.2373046875
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Exit",
+      "pos": [
+        12663.8671875,
+        18.889352798461914,
+        14469.3994140625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.999996542930603,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Misc_Gunrack",
+      "pos": [
+        12674.92578125,
+        9.711370468139648,
+        14470.607421875
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_ContainerLocked_Red_DE",
+      "pos": [
+        12702.8779296875,
+        20.455307006835938,
+        14481.181640625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_metalcrate",
+      "pos": [
+        12675.0771484375,
+        9.346427917480469,
+        14471.603515625
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Roadblock_Table",
+      "pos": [
+        12674.9619140625,
+        9.748449325561523,
+        14482.701171875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12682.1484375,
+        9.148872375488281,
+        14479.4814453125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12682.1669921875,
+        11.464086532592773,
+        14473.955078125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12670.8212890625,
+        9.148574829101562,
+        14475.33203125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12670.8232421875,
+        11.465156555175781,
+        14481.6689453125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_phonebox",
+      "pos": [
+        12663.0146484375,
+        19.708242416381836,
+        14473.12109375
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Stairs_Start",
+      "pos": [
+        12663.880859375,
+        9.48782730102539,
+        14467.9248046875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        12676.5068359375,
+        9.336400985717773,
+        14477.09765625
+      ],
+      "ypr": [
+        -4.071130151744873E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12674.6796875,
+        19.03482437133789,
+        14487.0029296875
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_POX2",
+      "pos": [
+        12693.6484375,
+        9.33387565612793,
+        14476.84765625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Ammo2",
+      "pos": [
+        12659.32421875,
+        9.333883285522461,
+        14478.5751953125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Ammo",
+      "pos": [
+        12650.0791015625,
+        29.177919387817383,
+        14448.705078125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_POX",
+      "pos": [
+        12650.0732421875,
+        29.177766799926758,
+        14425.9287109375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12678.58984375,
+        19.04523468017578,
+        14475.6484375
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12672.3076171875,
+        21.359983444213867,
+        14475.65234375
+      ],
+      "ypr": [
+        -2.4426890631729092E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Workshop",
+      "pos": [
+        12615.75,
+        29.177762985229492,
+        14427.65234375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Barracks",
+      "pos": [
+        12615.80078125,
+        29.177762985229492,
+        14450.4326171875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12679.7333984375,
+        21.351449966430664,
+        14486.9892578125
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        12636.3486328125,
+        30.503211975097656,
+        14390.1904296875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Both",
+      "pos": [
+        12675.9677734375,
+        19.23381805419922,
+        14481.322265625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Main_Right",
+      "pos": [
+        12632.9404296875,
+        19.229820251464844,
+        14448.9482421875
+      ],
+      "ypr": [
+        -4.071130151744873E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Storage_Laboratory",
+      "pos": [
+        12677.4501953125,
+        19.23381805419922,
+        14498.4970703125
+      ],
+      "ypr": [
+        -2.035568762159823E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999969005584717,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12638.6494140625,
+        19.04410171508789,
+        14452.3388671875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12638.6416015625,
+        21.35881996154785,
+        14445.6435546875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        12628.9091796875,
+        21.604835510253906,
+        14459.34375
+      ],
+      "ypr": [
+        -1.0856400414066547E-12,
+        0,
+        0
+      ],
+      "scale": 1.4999959468841553,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        12629.291015625,
+        21.441051483154297,
+        14467.923828125
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        12640.484375,
+        20.753217697143555,
+        14467.7353515625
+      ],
+      "ypr": [
+        -90.2289047241211,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        12633.048828125,
+        20.803808212280273,
+        14424.525390625
+      ],
+      "ypr": [
+        -1.0856400414066547E-12,
+        0,
+        0
+      ],
+      "scale": 1.4999959468841553,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12638.6123046875,
+        29.00575065612793,
+        14451.8896484375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        12677.5185546875,
+        12.845468521118164,
+        14458.59375
+      ],
+      "ypr": [
+        -1.0856400414066547E-12,
+        0,
+        0
+      ],
+      "scale": 1.4999959468841553,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12638.6318359375,
+        31.320476531982422,
+        14445.494140625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12638.6123046875,
+        29.005746841430664,
+        14430.3115234375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12638.6318359375,
+        31.320472717285156,
+        14421.984375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999964237213135,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks3",
+      "pos": [
+        12633.4130859375,
+        31.065750122070312,
+        14469.7568359375
+      ],
+      "ypr": [
+        -1.0856400414066547E-12,
+        0,
+        0
+      ],
+      "scale": 1.4999959468841553,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12627.2470703125,
+        29.005084991455078,
+        14424.39453125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        12682.7080078125,
+        10.848335266113281,
+        14467.103515625
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12627.23046875,
+        31.321807861328125,
+        14430.7392578125
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12627.2470703125,
+        29.005083084106445,
+        14446.046875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999966621398926,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_R",
+      "pos": [
+        12627.23046875,
+        31.32181167602539,
+        14455.0390625
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Aug",
+      "pos": [
+        12674.6552734375,
+        9.771398544311523,
+        14470.408203125
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Aug",
+      "pos": [
+        12674.6552734375,
+        9.771398544311523,
+        14470.2080078125
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M14",
+      "pos": [
+        12674.6123046875,
+        9.806394577026367,
+        14470.90625
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M14",
+      "pos": [
+        12674.6123046875,
+        9.806394577026367,
+        14470.705078125
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SV98",
+      "pos": [
+        12674.8896484375,
+        9.767141342163086,
+        14470.3046875
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SV98",
+      "pos": [
+        12674.8896484375,
+        9.767141342163086,
+        14470.5087890625
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SVD",
+      "pos": [
+        12674.8818359375,
+        9.74952507019043,
+        14471.0068359375
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "SVD",
+      "pos": [
+        12674.8818359375,
+        9.74952507019043,
+        14470.8076171875
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        12675.236328125,
+        9.50678825378418,
+        14471.7978515625
+      ],
+      "ypr": [
+        -0.000005008959305996541,
+        89.95575714111328,
+        -0.000005008954758523032
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        12675.236328125,
+        9.50678825378418,
+        14471.5478515625
+      ],
+      "ypr": [
+        -0.000005008954758523032,
+        89.9515380859375,
+        -0.0000050089488468074705
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        12675.1435546875,
+        9.50678825378418,
+        14471.7978515625
+      ],
+      "ypr": [
+        -0.000005012900601286674,
+        89.95575714111328,
+        -0.000005012896508560516
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_STANAG_60Rnd",
+      "pos": [
+        12675.1435546875,
+        9.50678825378418,
+        14471.5478515625
+      ],
+      "ypr": [
+        -0.0000050089488468074705,
+        89.95575714111328,
+        -0.000005008944299333962
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        12675.0244140625,
+        9.492757797241211,
+        14471.92578125
+      ],
+      "ypr": [
+        -0.000005008959305996541,
+        89.95575714111328,
+        -0.000005008954758523032
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        12674.90625,
+        9.492757797241211,
+        14471.92578125
+      ],
+      "ypr": [
+        -0.000005008954758523032,
+        89.9515380859375,
+        -0.0000050089488468074705
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        12675.0244140625,
+        9.492757797241211,
+        14471.796875
+      ],
+      "ypr": [
+        -0.000005012900601286674,
+        89.95575714111328,
+        -0.000005012896508560516
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SV98_10Rnd",
+      "pos": [
+        12674.90625,
+        9.492757797241211,
+        14471.796875
+      ],
+      "ypr": [
+        -0.0000050089488468074705,
+        89.95575714111328,
+        -0.000005008944299333962
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        12675.0166015625,
+        9.488998413085938,
+        14471.6513671875
+      ],
+      "ypr": [
+        -0.000005008959305996541,
+        89.95575714111328,
+        -0.000005008954758523032
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        12675.0166015625,
+        9.488996505737305,
+        14471.5224609375
+      ],
+      "ypr": [
+        -0.000005008954758523032,
+        89.9515380859375,
+        -0.0000050089488468074705
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        12674.9169921875,
+        9.488998413085938,
+        14471.6513671875
+      ],
+      "ypr": [
+        -0.000005012900601286674,
+        89.95575714111328,
+        -0.000005012896508560516
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_SVD_10Rnd",
+      "pos": [
+        12674.9169921875,
+        9.488996505737305,
+        14471.5224609375
+      ],
+      "ypr": [
+        -0.0000050089488468074705,
+        89.95575714111328,
+        -0.000005008944299333962
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M79",
+      "pos": [
+        12675.2529296875,
+        9.802099227905273,
+        14470.2177734375
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        90
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierVest_Black",
+      "pos": [
+        12674.888671875,
+        10.16139030456543,
+        14483.4365234375
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierPouches_Black",
+      "pos": [
+        12675.125,
+        10.16139030456543,
+        14483.0517578125
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierHolster_Black",
+      "pos": [
+        12674.7578125,
+        10.16139030456543,
+        14482.935546875
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierVest_Winter",
+      "pos": [
+        12674.86328125,
+        10.16139030456543,
+        14482.0546875
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierPouches_Winter",
+      "pos": [
+        12674.7587890625,
+        10.16139030456543,
+        14482.5166015625
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PlateCarrierHolster_Winter",
+      "pos": [
+        12675.15234375,
+        10.16139030456543,
+        14482.259765625
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "TortillaBag_Winter",
+      "pos": [
+        12674.591796875,
+        9.454046249389648,
+        14482.1962890625
+      ],
+      "ypr": [
+        90,
+        -85.99991607666016,
+        0
+      ],
+      "scale": 0.9999954700469971,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "BallisticHelmet_Winter",
+      "pos": [
+        12675.1083984375,
+        10.16139030456543,
+        14482.716796875
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "GorkaPants_Winter",
+      "pos": [
+        12674.9501953125,
+        9.348081588745117,
+        14481.5400390625
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "GorkaEJacket_Winter",
+      "pos": [
+        12674.943359375,
+        9.348508834838867,
+        14484.1044921875
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.7734375,
+        9.495656967163086,
+        14481.7958984375
+      ],
+      "ypr": [
+        -1.2213455073684099E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999969005584717,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.8427734375,
+        9.495656967163086,
+        14481.7958984375
+      ],
+      "ypr": [
+        -1.2213455073684099E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999969005584717,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.919921875,
+        9.495656967163086,
+        14481.7958984375
+      ],
+      "ypr": [
+        -1.6284664589027997E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.99609375,
+        9.495656967163086,
+        14481.7958984375
+      ],
+      "ypr": [
+        -1.2213456157886271E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.7734375,
+        9.495656967163086,
+        14481.892578125
+      ],
+      "ypr": [
+        -1.2213456157886271E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.8427734375,
+        9.495656967163086,
+        14481.892578125
+      ],
+      "ypr": [
+        -1.6284588694875923E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999966621398926,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.919921875,
+        9.495656967163086,
+        14481.892578125
+      ],
+      "ypr": [
+        -2.4426871116089988E-12,
+        0,
+        0
+      ],
+      "scale": 0.999996542930603,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.99609375,
+        9.495656967163086,
+        14481.892578125
+      ],
+      "ypr": [
+        -1.6284588694875923E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999966621398926,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.7734375,
+        9.495656967163086,
+        14481.9892578125
+      ],
+      "ypr": [
+        -2.4426871116089988E-12,
+        0,
+        0
+      ],
+      "scale": 0.999996542930603,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.8427734375,
+        9.495656967163086,
+        14481.9892578125
+      ],
+      "ypr": [
+        -1.2213491936557963E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999964833259583,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.919921875,
+        9.495656967163086,
+        14481.9892578125
+      ],
+      "ypr": [
+        -2.4426860274068263E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999964237213135,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_Explosive",
+      "pos": [
+        12677.99609375,
+        9.495656967163086,
+        14481.9892578125
+      ],
+      "ypr": [
+        -2.4426871116089988E-12,
+        0,
+        0
+      ],
+      "scale": 0.999996542930603,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.76953125,
+        9.499921798706055,
+        14482.08203125
+      ],
+      "ypr": [
+        -1.2213455073684099E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999969005584717,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.8583984375,
+        9.499921798706055,
+        14482.08203125
+      ],
+      "ypr": [
+        -1.2213455073684099E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999969005584717,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.939453125,
+        9.499921798706055,
+        14482.08203125
+      ],
+      "ypr": [
+        -1.6284664589027997E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967813491821,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12678.0107421875,
+        9.499921798706055,
+        14482.08203125
+      ],
+      "ypr": [
+        -1.2213456157886271E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.76953125,
+        9.499921798706055,
+        14482.1787109375
+      ],
+      "ypr": [
+        -1.2213456157886271E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.8583984375,
+        9.499921798706055,
+        14482.1787109375
+      ],
+      "ypr": [
+        -1.6284588694875923E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999966621398926,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.939453125,
+        9.499921798706055,
+        14482.1787109375
+      ],
+      "ypr": [
+        -1.2213456157886271E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12678.0107421875,
+        9.499921798706055,
+        14482.1787109375
+      ],
+      "ypr": [
+        -1.2213491936557963E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999964833259583,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.76953125,
+        9.499921798706055,
+        14482.2783203125
+      ],
+      "ypr": [
+        -1.2213491936557963E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999964833259583,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.8583984375,
+        9.499921798706055,
+        14482.2783203125
+      ],
+      "ypr": [
+        -2.4426860274068263E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999964237213135,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12677.939453125,
+        9.499921798706055,
+        14482.2783203125
+      ],
+      "ypr": [
+        -1.2213491936557963E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999964833259583,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Ammo_40mm_ChemGas",
+      "pos": [
+        12678.0107421875,
+        9.499921798706055,
+        14482.2783203125
+      ],
+      "ypr": [
+        -1.2213456157886271E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999967217445374,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Corridor_Connector",
+      "pos": [
+        12694.1572265625,
+        19.23129653930664,
+        14481.2216796875
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        12701.9755859375,
+        21.890478134155273,
+        14481.1220703125
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.95575714111328,
+        -0.000005008964308217401
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        12699.98828125,
+        21.890478134155273,
+        14478.51171875
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.96043395996094,
+        -0.000005008970674680313
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        12699.98828125,
+        21.890478134155273,
+        14483.8017578125
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.9515380859375,
+        -0.0000050089652177121025
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Panel_Concrete_1",
+      "pos": [
+        12699.990234375,
+        23.249412536621094,
+        14480.6982421875
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        90
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        12701.7548828125,
+        20.716848373413086,
+        14481.419921875
+      ],
+      "ypr": [
+        -179.99989318847656,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_phonebox",
+      "pos": [
+        12701.3857421875,
+        19.528076171875,
+        14480.857421875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Furniture_metalcrate",
+      "pos": [
+        12675.0263671875,
+        9.346092224121094,
+        14469.6005859375
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        12675.1611328125,
+        9.514532089233398,
+        14469.71484375
+      ],
+      "ypr": [
+        -0.000005008959305996541,
+        89.95575714111328,
+        -0.000005008954758523032
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        12675.0693359375,
+        9.514533996582031,
+        14469.71484375
+      ],
+      "ypr": [
+        -0.000005008954758523032,
+        89.9515380859375,
+        -0.0000050089488468074705
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        12674.96875,
+        9.514532089233398,
+        14469.71484375
+      ],
+      "ypr": [
+        -0.0000050089488468074705,
+        89.95575714111328,
+        -0.000005008944299333962
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "MK4Optic_Black",
+      "pos": [
+        12674.876953125,
+        9.514533996582031,
+        14469.71484375
+      ],
+      "ypr": [
+        -0.0000050089488468074705,
+        89.9476547241211,
+        -0.000005008942935091909
+      ],
+      "scale": 0.9999970197677612,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PSO6Optic",
+      "pos": [
+        12675.1025390625,
+        9.510169982910156,
+        14469.462890625
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.96043395996094,
+        179.99990844726562
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "PSO6Optic",
+      "pos": [
+        12675.1025390625,
+        9.510169982910156,
+        14469.3017578125
+      ],
+      "ypr": [
+        90.00000762939453,
+        89.95575714111328,
+        179.99989318847656
+      ],
+      "scale": 0.999997079372406,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "ACOGOptic_6x",
+      "pos": [
+        12674.830078125,
+        9.590505599975586,
+        14469.3134765625
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "ACOGOptic_6x",
+      "pos": [
+        12674.830078125,
+        9.590505599975586,
+        14469.455078125
+      ],
+      "ypr": [
+        -1.221348217873841E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M4_Suppressor",
+      "pos": [
+        12674.6396484375,
+        9.377845764160156,
+        14471.3173828125
+      ],
+      "ypr": [
+        -0.000005008959305996541,
+        89.95575714111328,
+        -0.000005008954758523032
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "M4_Suppressor",
+      "pos": [
+        12674.57421875,
+        9.377843856811523,
+        14471.3173828125
+      ],
+      "ypr": [
+        -0.000005008954758523032,
+        89.9515380859375,
+        -0.0000050089488468074705
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "AK_Suppressor",
+      "pos": [
+        12674.6552734375,
+        9.366582870483398,
+        14469.9130859375
+      ],
+      "ypr": [
+        -0.000005008959305996541,
+        89.95575714111328,
+        -0.000005008954758523032
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "AK_Suppressor",
+      "pos": [
+        12674.5830078125,
+        9.366582870483398,
+        14469.9130859375
+      ],
+      "ypr": [
+        -0.000005008954758523032,
+        89.9515380859375,
+        -0.0000050089488468074705
+      ],
+      "scale": 0.9999971985816956,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Underground_Panel_Lever",
+      "pos": [
+        12660.6513671875,
+        20.958349227905273,
+        14471.7001953125
+      ],
+      "ypr": [
+        -1.6284610378919373E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        12675.23046875,
+        9.490865707397461,
+        14471.330078125
+      ],
+      "ypr": [
+        179.99993896484375,
+        89.96043395996094,
+        179.99993896484375
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Dead_MassGrave_8m",
+      "pos": [
+        12676.6748046875,
+        9.581602096557617,
+        14476.919921875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999973773956299,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "AliceBag_Black",
+      "pos": [
+        12674.79296875,
+        9.348348617553711,
+        14483.162109375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999973773956299,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        12675.03125,
+        9.490865707397461,
+        14471.330078125
+      ],
+      "ypr": [
+        -0.000005008952030038927,
+        89.96043395996094,
+        -0.000005008947937312769
+      ],
+      "scale": 0.9999971389770508,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        12675.12890625,
+        9.490867614746094,
+        14471.330078125
+      ],
+      "ypr": [
+        -0.000005008959305996541,
+        89.95575714111328,
+        -0.000005008954758523032
+      ],
+      "scale": 0.9999972581863403,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Mag_M14_20Rnd",
+      "pos": [
+        12674.93359375,
+        9.490863800048828,
+        14471.330078125
+      ],
+      "ypr": [
+        -0.000005008952030038927,
+        89.9476547241211,
+        -0.000005008947937312769
+      ],
+      "scale": 0.9999969601631165,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_Bricks2",
+      "pos": [
+        12690.556640625,
+        21.592069625854492,
+        14476.8203125
+      ],
+      "ypr": [
+        59.7390251159668,
+        0,
+        0
+      ],
+      "scale": 1.4999955892562866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12685.3681640625,
+        19.134294509887695,
+        14481.4931640625
+      ],
+      "ypr": [
+        -1.3570481544045165E-12,
+        0,
+        0
+      ],
+      "scale": 1.1999962329864502,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12677.73046875,
+        19.134307861328125,
+        14481.4931640625
+      ],
+      "ypr": [
+        -1.3570482628247338E-12,
+        0,
+        0
+      ],
+      "scale": 1.1999961137771606,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12673.357421875,
+        19.134305953979492,
+        14481.4931640625
+      ],
+      "ypr": [
+        -1.6963088919630387E-12,
+        0,
+        0
+      ],
+      "scale": 1.199995994567871,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Underground_Corridor_Main_Gate_L",
+      "pos": [
+        12666.5517578125,
+        19.134305953979492,
+        14481.4931640625
+      ],
+      "ypr": [
+        -2.0355707137237333E-12,
+        0,
+        0
+      ],
+      "scale": 1.1999958753585815,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12627.845703125,
+        38.995758056640625,
+        14427.044921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12688.205078125,
+        26.81635284423828,
+        14477.2158203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991059303284,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12609.4775390625,
+        38.995758056640625,
+        14438.478515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12688.205078125,
+        26.81635284423828,
+        14487.1015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12615.55078125,
+        38.995758056640625,
+        14430.447265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12688.205078125,
+        26.81635284423828,
+        14497.037109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12701.02734375,
+        26.533344268798828,
+        14473.8798828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998152256012,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12688.205078125,
+        26.81635284423828,
+        14467.310546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12608.9794921875,
+        39.04058074951172,
+        14448.1103515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12673.5400390625,
+        28.974205017089844,
+        14460.8935546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12614.990234375,
+        39.04058074951172,
+        14455.1796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12692.419921875,
+        26.647480010986328,
+        14467.310546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12674.9287109375,
+        30.560531616210938,
+        14467.47265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12692.419921875,
+        26.647480010986328,
+        14477.2158203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986886978149,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12666.5673828125,
+        26.86231231689453,
+        14487.2646484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12692.419921875,
+        26.647480010986328,
+        14487.1015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999988079071045,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12666.5673828125,
+        26.8623104095459,
+        14497.2001953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12626.7412109375,
+        41.33366394042969,
+        14452.4013671875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12692.419921875,
+        26.647480010986328,
+        14497.037109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999991655349731,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12661.765625,
+        38.818206787109375,
+        14470.8798828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12647.4521484375,
+        41.091346740722656,
+        14440.912109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12623.0322265625,
+        39.04058074951172,
+        14441.1396484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12662.07421875,
+        26.712865829467773,
+        14477.37890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986290931702,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12662.07421875,
+        26.712867736816406,
+        14487.2646484375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12605.3173828125,
+        28.417455673217773,
+        14413.673828125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12603.4375,
+        30.64560317993164,
+        14430.55078125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12631.3427734375,
+        39.11595153808594,
+        14462.03515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12603.4375,
+        30.64560317993164,
+        14448.244140625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12614.1650390625,
+        30.64560317993164,
+        14458.8681640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12655.2060546875,
+        39.04058074951172,
+        14453.5537109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_Corner1",
+      "pos": [
+        12604.2470703125,
+        30.541637420654297,
+        14458.076171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12635.265625,
+        39.11595153808594,
+        14472.0068359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12612.1015625,
+        32.76567840576172,
+        14401.8193359375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12635.5087890625,
+        43.99329376220703,
+        14443.6630859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12617.154296875,
+        28.11622428894043,
+        14389.8193359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12653.0947265625,
+        26.712867736816406,
+        14484.4951171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999983310699463,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12602.9248046875,
+        18.402385711669922,
+        14431.1748046875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12602.9248046875,
+        18.402389526367188,
+        14448.8681640625
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12613.65234375,
+        18.402385711669922,
+        14459.4921875
+      ],
+      "ypr": [
+        -2.442668897012501E-12,
+        0,
+        0
+      ],
+      "scale": 0.999998927116394,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_Corner1",
+      "pos": [
+        12603.734375,
+        18.298423767089844,
+        14458.7001953125
+      ],
+      "ypr": [
+        -3.256890850761307E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12701.02734375,
+        26.533342361450195,
+        14483.765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986886978149,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12644.1328125,
+        26.712867736816406,
+        14484.4951171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999982118606567,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12602.21875,
+        4.575579643249512,
+        14431.6708984375
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12602.21875,
+        4.5755815505981445,
+        14449.3642578125
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999985694885254,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12612.9462890625,
+        4.575577735900879,
+        14459.98828125
+      ],
+      "ypr": [
+        -2.442669764374239E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999983906745911,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_Corner1",
+      "pos": [
+        12603.0283203125,
+        4.471611976623535,
+        14459.1962890625
+      ],
+      "ypr": [
+        -3.2568906339208725E-12,
+        0,
+        0
+      ],
+      "scale": 0.9999992847442627,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12635.17578125,
+        26.712867736816406,
+        14484.4951171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.999998152256012,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12639.15234375,
+        40.70591735839844,
+        14433.900390625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12618.4189453125,
+        26.428403854370117,
+        14465.34375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12626.1943359375,
+        26.712867736816406,
+        14484.4951171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999980926513672,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12617.4189453125,
+        10.577689170837402,
+        14466.34375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12666.5673828125,
+        26.8623104095459,
+        14477.37890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999990463256836,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12588.0986328125,
+        37.29119110107422,
+        14395.7880859375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12653.0947265625,
+        26.919605255126953,
+        14482.1787109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979138374329,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12618.4189453125,
+        28.62310218811035,
+        14483.3759765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12617.4189453125,
+        10.577693939208984,
+        14484.3759765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12635.17578125,
+        26.919605255126953,
+        14482.1787109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999977350234985,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12648.4853515625,
+        28.116226196289062,
+        14389.8193359375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12642.900390625,
+        27.68359375,
+        14373.658203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12650.4638671875,
+        39.11595153808594,
+        14470.7783203125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12643.9609375,
+        42.789695739746094,
+        14452.5947265625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12662.07421875,
+        26.712865829467773,
+        14497.2001953125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999986886978149,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12658.87890625,
+        38.742835998535156,
+        14441.8330078125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12661.6533203125,
+        38.818206787109375,
+        14461.5087890625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12640.8955078125,
+        28.07862091064453,
+        14480.0419921875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12658.0400390625,
+        27.87187957763672,
+        14481.24609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12637.951171875,
+        42.06658172607422,
+        14455.736328125
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12644.1328125,
+        26.919605255126953,
+        14482.1787109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999978542327881,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Wall_IndCncH_10",
+      "pos": [
+        12626.1943359375,
+        26.919605255126953,
+        14482.1787109375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999979734420776,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12683.92578125,
+        29.327285766601562,
+        14467.65625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12673.2763671875,
+        33.55077362060547,
+        14474.4560546875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12669.4404296875,
+        31.388671875,
+        14480.978515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12658.9130859375,
+        28.116226196289062,
+        14411.603515625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999997615814209,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12682.0185546875,
+        30.812286376953125,
+        14477.1982421875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12678.771484375,
+        30.38519287109375,
+        14487.029296875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12687.0546875,
+        28.80437469482422,
+        14488.5341796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12644.9619140625,
+        39.90437316894531,
+        14463.3701171875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12649.3193359375,
+        28.07862091064453,
+        14486.4609375
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12692.6083984375,
+        27.975364685058594,
+        14496.8134765625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12653.0029296875,
+        32.7479248046875,
+        14400.0576171875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12653.412109375,
+        24.936412811279297,
+        14400.0576171875
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12662.2236328125,
+        30.050065994262695,
+        14422.740234375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12662.2236328125,
+        30.050067901611328,
+        14442.9677734375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12663.1328125,
+        15.11457347869873,
+        14422.740234375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12663.1328125,
+        15.114575386047363,
+        14442.9677734375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999994039535522,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12663.751953125,
+        6.474976539611816,
+        14442.9677734375
+      ],
+      "ypr": [
+        90,
+        0,
+        0
+      ],
+      "scale": 0.9999993443489075,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12598.3271484375,
+        4.249479293823242,
+        14478.41796875
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12668.5478515625,
+        28.5612735748291,
+        14447.181640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Donjon",
+      "pos": [
+        12669.5478515625,
+        9.238112449645996,
+        14446.181640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998211860657,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "DZ\\plants\\tree\\t_piceaabies_3s.p3d",
+      "pos": [
+        12680.4814453125,
+        27.975364685058594,
+        14456.5166015625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 0.9999998807907104,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12611.6767578125,
+        4.367476463317871,
+        14476.591796875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999996423721313,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12612.7119140625,
+        16.302322387695312,
+        14476.591796875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995827674866,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "Land_Castle_Wall1_20",
+      "pos": [
+        12613.6923828125,
+        29.739776611328125,
+        14476.591796875
+      ],
+      "ypr": [
+        -89.99998474121094,
+        0,
+        0
+      ],
+      "scale": 0.9999995231628418,
+      "enableCEPersistency": 0,
+      "customString": ""
+    },
+    {
+      "name": "StaticObj_Rubble_DirtPile_Large",
+      "pos": [
+        12674.5478515625,
+        30.646041870117188,
+        14473.6806640625
+      ],
+      "ypr": [
+        0,
+        0,
+        0
+      ],
+      "scale": 5,
+      "enableCEPersistency": 0,
+      "customString": ""
+    }
+  ]
+}

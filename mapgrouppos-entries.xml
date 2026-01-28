@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<map>
+    <group name="Land_Underground_Storage_Hospital" pos="12650.028320 19.226805 14448.706055" rpy="-0.000000 0.000000 90.000000" a="0"/>
+    <group name="Land_Underground_Storage_Prison" pos="12676.022461 19.233820 14464.237305" rpy="-0.000000 0.000000 -179.999893" a="-90.0001"/>
+    <group name="Land_Underground_Storage_POX2" pos="12693.648438 9.333876 14476.847656" rpy="-0.000000 0.000000 90.000000" a="0"/>
+    <group name="Land_Underground_Storage_Ammo2" pos="12659.324219 9.333883 14478.575195" rpy="0.000000 0.000000 -89.999985" a="180"/>
+    <group name="Land_Underground_Storage_Ammo" pos="12650.079102 29.177919 14448.705078" rpy="-0.000000 0.000000 90.000000" a="0"/>
+    <group name="Land_Underground_Storage_POX" pos="12650.073242 29.177767 14425.928711" rpy="-0.000000 0.000000 90.000000" a="0"/>
+    <group name="Land_Underground_Storage_Workshop" pos="12615.750000 29.177763 14427.652344" rpy="0.000000 0.000000 -89.999985" a="180"/>
+    <group name="Land_Underground_Storage_Barracks" pos="12615.800781 29.177763 14450.432617" rpy="0.000000 0.000000 -89.999985" a="180"/>
+    <group name="Land_Underground_Storage_Laboratory" pos="12677.450195 19.233818 14498.497070" rpy="0.000000 0.000000 -0.000000" a="90"/>
+    <group name="Land_Underground_Entrance" pos="12632.838867 29.228981 14393.648438" rpy="0.000000 0.000000 -0.000000" a="90"/>
+</map>
