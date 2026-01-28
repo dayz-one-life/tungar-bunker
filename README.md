@@ -79,3 +79,11 @@ Open `cfggameplay.json` in your mission folder and make the following changes:
 
 ---
 **Installation Complete!** Restart your server to see the changes.
+
+## ⚠️ Important: Enabling Access Keys
+
+Accessing the bunker requires two specific items that **do not spawn by default** on this map:
+1. `PunchedCard`
+2. `ShippingContainerKeys_Red`
+
+You must create a way of obtaining these items either through the types.xml file, or by added them as cargo to certain zeds or containers.
