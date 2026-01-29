@@ -1,0 +1,11 @@
+{
+	"WorldsData":
+	{
+		"objectSpawnersArr": [
+			"./custom/tungar-bunker.json"
+		],
+		"playerRestrictedAreaFiles": [
+			"./custom/tungar-bunker-pra.json"
+		]
+	}
+}
