@@ -7,10 +7,6 @@
         <damage min="0.8" max="0.8" />
     </type>
     <type name="ZmbM_eastSoldier_Heavy_Navy">
-        <cargo preset="foodArmy" />
-        <cargo preset="ammoArmy" />
-        <attachments preset="HeavyArmorArmy" />
-        <attachments preset="HeavyHelmetArmy" />
         <cargo chance="0.1">
             <item name="ShippingContainerKeys_Red" chance="0.5" />
             <item name="PunchedCard" chance="0.5" />
