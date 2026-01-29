@@ -5,43 +5,137 @@ import xml.etree.ElementTree as ET
 import sys
 import datetime
 
-# --- Defaults (Used if install_config.json is missing) ---
+# --- Defaults ---
 DEFAULT_CONFIG = {
-    "json": {
-        "*": { "append_keys": ["objectSpawnersArr", "playerRestrictedAreaFiles", "Triggers"] }
-    },
-    "xml": {
-        "cfgweather.xml": { "strategy": "settings" },
-        "cfggameplay.xml": { "strategy": "settings" },
-        "economycore.xml": { "strategy": "settings" },
-        "*": { "strategy": "collection", "id_attributes": ["name", "pos", "color"] }
-    }
+    "json": { "*": { "append_keys": ["objectSpawnersArr", "playerRestrictedAreaFiles"] } },
+    "xml": { "*": { "strategy": "collection", "id_attributes": ["name", "pos"] } }
 }
 
-# --- Config Loader ---
 def load_config():
     if os.path.exists("install_config.json"):
         try:
-            with open("install_config.json", "r") as f:
-                print("Loaded custom install_config.json")
-                return json.load(f)
-        except Exception as e:
-            print(f"Error loading install_config.json: {e}")
+            with open("install_config.json", "r") as f: return json.load(f)
+        except Exception as e: print(f"Config Error: {e}")
     return DEFAULT_CONFIG
 
-def get_file_config(config, filename, file_type):
-    """Retrives rules for a specific file, falling back to '*' wildcard."""
-    section = config.get(file_type, {})
-    # Check exact match
-    if filename in section: return section[filename]
-    # Check path match (if filename is a relative path)
-    for key in section:
-        if filename.endswith(key) or key.endswith(filename):
-            return section[key]
-    # Return wildcard
-    return section.get("*", {})
+def get_file_config(config, file_path):
+    # Normalize path separators
+    file_path = file_path.replace("\\", "/")
+    filename = os.path.basename(file_path)
+    extension = os.path.splitext(filename)[1]
 
-# --- Helper Functions ---
+    # Priority 1: Exact Path
+    if file_path in config: return config[file_path]
+
+    # Priority 2: Wildcard Path (e.g. custom/*.json)
+    dir_name = os.path.dirname(file_path)
+    if dir_name:
+        wildcard_path = f"{dir_name}/*{extension}"
+        if wildcard_path in config: return config[wildcard_path]
+
+    # Priority 3: Filename
+    if filename in config: return config[filename]
+
+    # Priority 4: Extension Wildcard
+    if f"*{extension}" in config: return config[f"*{extension}"]
+
+    return config.get("*", {})
+
+# --- Helpers ---
+def make_hashable(value):
+    if isinstance(value, list): return tuple(make_hashable(v) for v in value)
+    if isinstance(value, dict): return tuple(sorted((k, make_hashable(v)) for k, v in value.items()))
+    return value
+
+def create_backup(file_path):
+    if os.path.exists(file_path):
+        ts = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
+        try: shutil.copy2(file_path, f"{file_path}.{ts}.bak")
+        except: pass
+
+# --- JSON Logic ---
+def deep_merge_json(target, source, append_keys, match_by):
+    for key, value in source.items():
+        if key in target:
+            if isinstance(target[key], dict) and isinstance(value, dict):
+                deep_merge_json(target[key], value, append_keys, match_by)
+            elif isinstance(target[key], list) and isinstance(value, list):
+                if key in append_keys:
+                    if key in match_by:
+                        id_fields = match_by[key]
+                        target_map = {}
+                        for idx, item in enumerate(target[key]):
+                            if isinstance(item, dict):
+                                # Use tuple of values as ID
+                                item_id = tuple(make_hashable(item.get(f)) for f in id_fields)
+                                target_map[item_id] = idx
+
+                        for item in value:
+                            if isinstance(item, dict):
+                                item_id = tuple(make_hashable(item.get(f)) for f in id_fields)
+                                if item_id in target_map:
+                                    # Update existing
+                                    idx = target_map[item_id]
+                                    deep_merge_json(target[key][idx], item, append_keys, match_by)
+                                else: target[key].append(item)
+                            elif item not in target[key]: target[key].append(item)
+                    else:
+                        for item in value:
+                            if item not in target[key]: target[key].append(item)
+                else: target[key] = value # Overwrite
+            else: target[key] = value
+        else: target[key] = value
+    return target
+
+# --- XML Logic ---
+def get_node_id(node, strategy, id_attrs, property_tags):
+    tag = node.tag.lower()
+
+    # Strategy: Settings (Always match by Tag)
+    if strategy == "settings": return tag
+
+    # Strategy: Property Tag (Force match by Tag to allow overwrite)
+    if property_tags and tag in property_tags: return tag
+
+    # Strategy: Collection (Match by Attributes)
+    parts = [tag]
+    found_attr = False
+
+    if id_attrs:
+        for attr in id_attrs:
+            if attr in node.attrib:
+                parts.append(f"{attr}={node.attrib[attr]}")
+                found_attr = True
+
+    # Fallback: If no ID attributes matched, use ALL attributes
+    if not found_attr:
+        for k, v in sorted(node.attrib.items()):
+            parts.append(f"{k}={v}")
+
+    return "|".join(parts)
+
+def recursive_xml_merge(target, source, strategy, id_attrs, property_tags):
+    target_map = {}
+    for child in target:
+        ident = get_node_id(child, strategy, id_attrs, property_tags)
+        target_map[ident] = child
+
+    for child in source:
+        ident = get_node_id(child, strategy, id_attrs, property_tags)
+
+        if ident in target_map:
+            target_child = target_map[ident]
+            # Update Attributes
+            target_child.attrib.update(child.attrib)
+            # Update Text
+            if child.text and child.text.strip():
+                target_child.text = child.text
+            # Recurse
+            recursive_xml_merge(target_child, child, strategy, id_attrs, property_tags)
+        else:
+            target.append(child)
+
+# --- Main Logic ---
 def find_mission_data_folder():
     exclusions = {".git", ".github", "__pycache__", ".idea", ".vscode"}
     candidates = []
@@ -51,87 +145,16 @@ def find_mission_data_folder():
     if not candidates:
         for item in os.listdir("."):
              if os.path.isdir(item) and item not in exclusions: candidates.append(item)
-    if not candidates:
-        print("Error: No mission data folder found.")
-        sys.exit(1)
+    if not candidates: sys.exit("Error: No mission data folder found.")
     candidates.sort(key=lambda x: not x.startswith("dayzOffline"))
     return candidates[0]
 
 def get_mission_path(mission_name):
-    print("\n--- Mission Selection ---")
     print(f"Detected mod data for: {mission_name}")
-    print("Enter server mission directory path:")
-    path = input("Path: ").strip().replace('"', '')
-    if not os.path.isdir(path):
-        print(f"Error: Directory '{path}' not found.")
-        sys.exit(1)
+    path = input("Enter server mission directory path: ").strip().replace('"', '')
+    if not os.path.isdir(path): sys.exit(f"Error: Directory '{path}' not found.")
     return path
 
-def create_backup(file_path):
-    if os.path.exists(file_path):
-        ts = datetime.datetime.now().strftime("%Y%m%d-%H%M%S")
-        try: shutil.copy2(file_path, f"{file_path}.{ts}.bak")
-        except: pass
-
-# --- Merge Logic ---
-def deep_merge_json(target, source, append_keys):
-    for key, value in source.items():
-        if key in target:
-            if isinstance(target[key], dict) and isinstance(value, dict):
-                deep_merge_json(target[key], value, append_keys)
-            elif isinstance(target[key], list) and isinstance(value, list):
-                if key in append_keys:
-                    for item in value:
-                        if item not in target[key]: target[key].append(item)
-                else:
-                    target[key] = value # Overwrite
-            else:
-                target[key] = value # Overwrite
-        else:
-            target[key] = value
-    return target
-
-def get_node_id(node, strategy, id_attrs):
-    if strategy == "settings": return node.tag.lower()
-
-    # Collection: Generate ID based on specific attributes
-    # If no attributes defined in config, try to guess common ones
-    parts = [node.tag.lower()]
-    found_attr = False
-
-    # Check for configured attributes
-    if id_attrs:
-        for attr in id_attrs:
-            if attr in node.attrib:
-                parts.append(f"{attr}={node.attrib[attr]}")
-                found_attr = True
-
-    # If we didn't match any configured attributes, fall back to "All Attributes"
-    # This handles complex nodes without names
-    if not found_attr:
-        for k, v in sorted(node.attrib.items()):
-            parts.append(f"{k}={v}")
-
-    return "|".join(parts)
-
-def recursive_xml_merge(target, source, strategy, id_attrs):
-    target_map = {}
-    for child in target:
-        ident = get_node_id(child, strategy, id_attrs)
-        target_map[ident] = child
-
-    for child in source:
-        ident = get_node_id(child, strategy, id_attrs)
-        if ident in target_map:
-            target_child = target_map[ident]
-            target_child.attrib.update(child.attrib)
-            if child.text and child.text.strip():
-                target_child.text = child.text
-            recursive_xml_merge(target_child, child, strategy, id_attrs)
-        else:
-            target.append(child)
-
-# --- Main Logic ---
 def process_directory(source_root, target_root, config):
     for root, dirs, files in os.walk(source_root):
         rel_path = os.path.relpath(root, source_root)
@@ -144,44 +167,50 @@ def process_directory(source_root, target_root, config):
         for filename in files:
             src = os.path.join(root, filename)
             dst = os.path.join(target_dir, filename)
-            disp = os.path.join(rel_path, filename)
+            # Use forward slashes for config lookup
+            disp = os.path.join(rel_path, filename).replace("\\", "/")
 
-            # Use relative path for config lookup to allow folder-specific rules
-            file_key = disp.replace("\\", "/")
+            rules = get_file_config(config, disp)
 
+            # Case 0: Explicit Overwrite Strategy
+            if rules.get("strategy") == "overwrite":
+                create_backup(dst)
+                shutil.copy(src, dst)
+                print(f"  [OVERWRITTEN] {disp}")
+                continue
+
+            # Case 1: New File
             if not os.path.exists(dst):
                 shutil.copy(src, dst)
                 print(f"  [NEW] {disp}")
                 continue
 
+            # Case 2: JSON Merge
             if filename.endswith(".json"):
                 try:
-                    rules = get_file_config(config, file_key, "json")
-                    append_keys = rules.get("append_keys", [])
-
                     with open(dst, 'r', encoding='utf-8') as f: t_data = json.load(f)
                     with open(src, 'r', encoding='utf-8') as f: s_data = json.load(f)
 
-                    deep_merge_json(t_data, s_data, append_keys)
+                    deep_merge_json(t_data, s_data, rules.get("append_keys", []), rules.get("match_by", {}))
                     create_backup(dst)
                     with open(dst, 'w', encoding='utf-8') as f: json.dump(t_data, f, indent=4)
                     print(f"  [MERGED] {disp}")
                 except Exception as e: print(f"  [ERROR] {disp}: {e}")
 
+            # Case 3: XML Merge
             elif filename.endswith(".xml"):
                 try:
-                    rules = get_file_config(config, file_key, "xml")
                     strategy = rules.get("strategy", "collection")
-                    id_attrs = rules.get("id_attributes", ["name", "pos", "color"])
+                    id_attrs = rules.get("id_attributes", ["name", "pos", "color", "x", "z"])
+                    property_tags = rules.get("property_tags", [])
 
                     ET.register_namespace('', "")
                     t_tree = ET.parse(dst)
                     s_tree = ET.parse(src)
 
-                    recursive_xml_merge(t_tree.getroot(), s_tree.getroot(), strategy, id_attrs)
+                    recursive_xml_merge(t_tree.getroot(), s_tree.getroot(), strategy, id_attrs, property_tags)
                     create_backup(dst)
 
-                    # Pretty Print Hack
                     def indent(elem, level=0):
                         i = "\n" + level * "    "
                         if len(elem):
@@ -192,11 +221,11 @@ def process_directory(source_root, target_root, config):
                         else:
                             if level and (not elem.tail or not elem.tail.strip()): elem.tail = i
                     indent(t_tree.getroot())
-
                     t_tree.write(dst, encoding="UTF-8", xml_declaration=True)
-                    print(f"  [MERGED] {disp} (Strategy: {strategy})")
+                    print(f"  [MERGED] {disp}")
                 except Exception as e: print(f"  [ERROR] {disp}: {e}")
 
+            # Case 4: Binary/Other
             else:
                 create_backup(dst)
                 shutil.copy(src, dst)

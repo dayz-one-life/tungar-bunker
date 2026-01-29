@@ -1,0 +1,29 @@
+{
+  "custom/*.json": {
+    "strategy": "overwrite"
+  },
+  "env/zombie_territories.xml": {
+    "strategy": "collection",
+    "id_attributes": ["name", "x", "z"]
+  },
+  "cfggameplay.json": {
+    "append_keys": ["objectSpawnersArr", "playerRestrictedAreaFiles"]
+  },
+  "cfgspawnabletypes.xml": {
+    "strategy": "collection",
+    "id_attributes": ["name"],
+    "property_tags": ["damage"]
+  },
+  "cfgundergroundtriggers.json": {
+    "append_keys": ["Triggers"],
+    "match_by": { "Triggers": ["Position"] }
+  },
+  "mapgrouppos.xml": {
+    "strategy": "collection",
+    "id_attributes": ["name", "pos"]
+  },
+  "mapgroupproto.xml": {
+    "strategy": "collection",
+    "id_attributes": ["name"]
+  }
+}
