@@ -15,19 +15,19 @@ This method uses a Python script to automatically copy files and inject the nece
 
 ### Steps
 
-1.  **Download the Files:** Ensure all files from this repository (including `install_tungar_bunker.py`) are in the same folder on your computer.
+1.  **Download the Files:** Ensure all files from this repository (including `install.py`) are in the same folder on your computer.
 2.  **Run the Script:** Open your terminal or command prompt in that folder and run:
     ```bash
-    python install_tungar_bunker.py
+    python install.py
     ```
 3.  **Provide Mission Path:** When prompted, paste the full path to your server's mission directory (e.g., `C:\DayZServer\mpmissions\dayzOffline.sakhal`).
 
 The script will automatically:
-* Create a `custom` folder in your mission directory if it doesn't exist.
-* Copy `tungar-bunker.json` and `tungar-bunker-pra.json` to that folder.
+* Create a `custom` folder in your mission directory and copy the bunker files.
 * Update `cfggameplay.json` to spawn the bunker objects and restrict the area.
 * Add the necessary underground triggers to `cfgundergroundtriggers.json`.
 * Add the required loot and map groups to `mapgrouppos.xml` and `mapgroupproto.xml`.
+* Update `cfgspawnabletypes.xml` to include the bunker keys and punch cards on specific zombies.
 
 ---
 
@@ -51,7 +51,6 @@ Open `cfggameplay.json` in your mission folder and make the following changes:
         "./custom/tungar-bunker.json"
     ],
     ```
-  *(Note: If the array already has entries, add a comma after the previous entry and add this new line).*
 
 * **Restricted Areas:** Locate the `"playerRestrictedAreaFiles"` array inside `"WorldsData"`. Add the path to the PRA JSON:
     ```json
@@ -59,7 +58,6 @@ Open `cfggameplay.json` in your mission folder and make the following changes:
         "./custom/tungar-bunker-pra.json"
     ],
     ```
-
 
 ### 3. Update `cfgundergroundtriggers.json`
 1.  Open `undergroundtrigger-entries.json` from this repository.
@@ -77,13 +75,11 @@ Open `cfggameplay.json` in your mission folder and make the following changes:
 3.  Copy the entire group definitions (e.g., `<group name="Land_Underground_Storage_Barracks" ...> ... </group>`) from the source file.
 4.  Paste them inside the `<prototype>` tag of your mission file.
 
+### 6. Update `cfgspawnabletypes.xml`
+1.  Open `cfgspawnabletypes-entries.xml` from this repository.
+2.  Open `cfgspawnabletypes.xml` in your mission folder.
+3.  Copy the `<type>` blocks from the source file and paste them into your mission file inside the `<spawnabletypes>` tag.
+    * *Note: If the type `ZmbM_eastSoldier_Heavy_Navy` (or others) already exists in your file, merge the new `<cargo>` entries into the existing type definition instead of duplicating it.*
+
 ---
 **Installation Complete!** Restart your server to see the changes.
-
-## ⚠️ Important: Enabling Access Keys
-
-Accessing the bunker requires two specific items that **do not spawn by default** on this map:
-1. `PunchedCard`
-2. `ShippingContainerKeys_Red`
-
-You must create a way of obtaining these items either through the types.xml file, or by added them as cargo to certain zeds or containers.
